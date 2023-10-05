@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-website-html-css",
+  "version": "1.0.0",
+  "description": "in this repository you will see an html css template for a cool designed e-commerce website.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
