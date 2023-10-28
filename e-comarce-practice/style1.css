@@ -535,7 +535,46 @@ footer a:hover{
   font-size: 16px;
   font-weight: 600;
 }
+/* single product */
+#prodetail{
+  display: flex;
+  margin-top: 20px;
+}
+#prodetail .single-pro-image{
+  width: 40%;
+  margin-right: 50px;
+  margin: 5px;
+}
+.small-img-group{
+  display: flex;
+  justify-content: space-between;
+}
+.small-img-col {
+  flex-basis: 24%;
+  cursor: pointer;
+}
+#prodetail .single-pro-detail{
+  width: 50%;
+  padding-top: 30px;
+}
 
-
+#prodetail .single-pro-detail h4{
+  padding: 40px 0 20px 0;
+}
+#prodetail .single-pro-detail h2 {
+  font-size: 26px;
+}
+#prodetail .single-pro-detail select{
+  display: block;
+  padding: 5px 10 px;
+  margin-bottom: 10px;
+}
+#prodetail .single-pro-detail input{
+  width: 50px;
+  height: 47px;
+  padding-left: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
 
 
